@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:demo-imagineartsupplies.torralbaportfolio.com)",
+      "WebFetch(domain:demo-time-to-create-legacy.torralbaportfolio.com)",
+      "WebFetch(domain:demo-time-to-create.torralbaportfolio.com)",
+      "WebFetch(domain:demo-topsartsupplies.torralbaportfolio.com)",
+      "WebFetch(domain:flowerdeliverysf.com)",
+      "WebFetch(domain:www.oakhurstgrillandwhiskey41.com)"
+    ]
+  }
+}
