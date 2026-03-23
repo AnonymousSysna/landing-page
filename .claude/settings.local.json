@@ -6,7 +6,9 @@
       "WebFetch(domain:demo-time-to-create.torralbaportfolio.com)",
       "WebFetch(domain:demo-topsartsupplies.torralbaportfolio.com)",
       "WebFetch(domain:flowerdeliverysf.com)",
-      "WebFetch(domain:www.oakhurstgrillandwhiskey41.com)"
+      "WebFetch(domain:www.oakhurstgrillandwhiskey41.com)",
+      "WebFetch(domain:sites.google.com)",
+      "WebFetch(domain:www.hungryhutshaver.com)"
     ]
   }
 }
