@@ -9,6 +9,13 @@ const PROJECTS = [
     tags: ["Next.js", "React", "Brand Website"],
   },
   {
+    name: "GitHubFinds",
+    type: "Developer Discovery Platform",
+    desc: "Curated GitHub trending repositories worth building with, organized for quick discovery.",
+    url: "https://githubfinds.dev/",
+    tags: ["Web App", "Developer Tools", "Curation"],
+  },
+  {
     name: "Imagine Art Supplies",
     type: "E-Commerce · COD Store",
     desc: "Custom COD ordering platform with product gallery, 3-step order flow, and order summary.",
