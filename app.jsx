@@ -2,6 +2,13 @@ const { useEffect, useState } = React;
 
 const PROJECTS = [
   {
+    name: "Momoyo Philippines",
+    type: "F&B Brand Website",
+    desc: "Fresh fruit tea, handcrafted ice cream, and coffee website with menu, stores, and franchise pages.",
+    url: "https://demo-momoyo.torralbaportfolio.com/",
+    tags: ["Next.js", "React", "Brand Website"],
+  },
+  {
     name: "Imagine Art Supplies",
     type: "E-Commerce · COD Store",
     desc: "Custom COD ordering platform with product gallery, 3-step order flow, and order summary.",
